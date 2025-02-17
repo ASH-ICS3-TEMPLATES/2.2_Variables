@@ -1,6 +1,6 @@
 # 2.2 - Variables
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 ### If you missed the live demonstration in class, read below. Otherwise you can go straight to [your task](./YOUR_TASK.md).
 
@@ -108,5 +108,4 @@ Need more help on variables?
 ### Follow the instuctions in [your task](./YOUR_TASK.md) to practice variables and math.
 
 <br><br>
-
-🐿️
+🐧
