@@ -1,10 +1,10 @@
 ### 2.2 - Variables
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 # 📝 Your Task:
 
-(Read carefully and work with a partner if you are struggling - ask Mr. Brash only after asking a classmate)
+(Read carefully and work with a partner if you are struggling - ask Mr. J only after asking a classmate)
 
 - This repo has been setup already for you with an [HTML page](./index.html) and a [JavaScript code file](./main.js).
 - When you preview the HTML page, the JavaScript will run in the background after the page loads.
